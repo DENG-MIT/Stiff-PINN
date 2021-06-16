@@ -1,0 +1,3 @@
+Code repo for the paper of 
+
+> Ji, Weiqi, Weilun Qiu, Zhiyu Shi, Shaowu Pan, and Sili Deng. "Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics." arXiv preprint arXiv:2011.04520 (2020).
